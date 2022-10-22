@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "debug": "npx hardhat run scripts/run.ts",
-    "compile": "npx hardhat compile"
+    "compile": "npx hardhat compile",
+    "deploy:locak": "npx hardhat run scripts/deploy.ts --network localhost"
   },
   "keywords": [],
   "author": "u-koma",
