@@ -11,6 +11,11 @@
 
 ```
 
+```shell
+ npx hardhat run scripts/run.ts
+
+```
+
 ## 使用技術
 
 - https://hardhat.org/
